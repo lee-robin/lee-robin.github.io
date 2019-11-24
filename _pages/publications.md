@@ -21,10 +21,9 @@ author_profile: true
 {% endfor %}
 -->
 
-<h3>Journal Publications</h3>
+### Journal Publications
 1. Publication 1
-
 2. Publication 2
 
-<h3>Other Publications</h3>
+### Other Publications
 1. Publication 1
