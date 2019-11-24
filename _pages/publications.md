@@ -23,6 +23,7 @@ author_profile: true
 
 <h3>Journal Publications</h3>
 1. Publication 1
+
 2. Publication 2
 
 <h3>Other Publications</h3>
