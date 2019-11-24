@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Robin Lee"
-description              : &description "Academic in geotechnical engineering at the University of Canterbury, New Zealand"
+description              : &description "Academic in Geotechnical Engineering at the University of Canterbury, New Zealand"
 url                      : https://lee-robin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/lee-robin/lee-robin.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Robin Lee"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Lecturer in Geotechnical Engineering at the University of Canterbury, New Zealand"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
