@@ -9,7 +9,7 @@ author_profile: true
 
 Add journal url/doi pages to these as well in future.
 
-####2020
+#### 2020
 
 1. Thomson, E. M., Bradley, B. A., & **Lee, R. L.** (2020). Methodology and computational implementation of a New Zealand Velocity Model (NZVM2. 0) for broadband ground motion simulation. *New Zealand Journal of Geology and Geophysics*, 63(1), 110-127. [[PDF]](https://lee-robin.github.io/files/Journal/Thomson_2020_NZVM2_NZJGG.pdf)
 
@@ -19,16 +19,16 @@ Add journal url/doi pages to these as well in future.
 
 4. de la Torre C, Bradley BA, **Lee RL**. Modelling nonlinear site effects in physics-based ground motion simulations of the 2010-2011 Canterbury earthquake sequence. *Earthquake Spectra*. (in press) [[PDF]](https://lee-robin.github.io/files/Journal/)
 
-####2019
+#### 2019
 
 1. Thomson, E. M., **Lee, R. L.**, & Bradley, B. A. (2019). Ground motion simulations of Hope fault earthquakes. *Bulletin of the New Zealand Society for Earthquake Engineering*, 52(4), 152-171. [[PDF]](https://lee-robin.github.io/files/Journal/Thomson_2020_HopeFaultSimulation_BNZSEE.pdf)
 
 2. Bellagamba, X., **Lee, R.**, & Bradley, B. A. (2019). A neural network for automated quality screening of ground motion records from small magnitude earthquakes. *Earthquake Spectra*, 35(4), 1637-1661. [[PDF]](https://lee-robin.github.io/files/Journal/Bellagamba_2019_GroundMotionClassificationNeuralNetwork_ES.pdf)
 
-####2018
+#### 2018
 
 
-####2017
+#### 2017
 
 1. **Lee, R. L.**, Bradley, B. A., Ghisetti, F. C., & Thomson, E. M. (2017). Development of a 3D Velocity Model of the Canterbury, New Zealand, Region for Broadband Ground‐Motion Simulation. *Bulletin of the Seismological Society of America*, 107(5), 2131-2150. [[PDF]](https://lee-robin.github.io/files/Journal/Lee_2017_CantVM_BSSA.pdf)
 
