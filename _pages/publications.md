@@ -23,6 +23,7 @@ author_profile: true
 
 ### Journal Publications
 1. Publication 1
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 2. Publication 2
 
 ### Other Publications
