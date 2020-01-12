@@ -4,18 +4,11 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-<!--
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
-<h3>2020</h3>
+###2020
 
 TBD.
 
-<h3>2019</h3>
+###2019
 Department of Civil and Natural Resources Engineering, University of Canterbury
 
 ENCN304 - Deterministic Mathematical Models
