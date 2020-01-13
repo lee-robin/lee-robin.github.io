@@ -5,11 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Journal Publications
+## Journal Publications
 
-Add journal url/doi pages to these as well in future.
-
-#### 2020
+### 2020
 
 1. Thomson, E. M., Bradley, B. A., & **Lee, R. L.** (2020). Methodology and computational implementation of a New Zealand Velocity Model (NZVM2. 0) for broadband ground motion simulation. *New Zealand Journal of Geology and Geophysics*, 63(1), 110-127. [[PDF]](https://lee-robin.github.io/files/Journal/Thomson_2020_NZVM2_NZJGG.pdf) [[Link]](https://doi.org/10.1080/00288306.2019.1636830)
 
@@ -19,16 +17,16 @@ Add journal url/doi pages to these as well in future.
 
 4. de la Torre C, Bradley BA, **Lee RL**. Modelling nonlinear site effects in physics-based ground motion simulations of the 2010-2011 Canterbury earthquake sequence. *Earthquake Spectra*. (in press) [[PDF]](https://lee-robin.github.io/files/Journal/)[[Link]](https://doi.org/10.1080/00288306.2019.1636830)
 
-#### 2019
+### 2019
 
 1. Thomson, E. M., **Lee, R. L.**, & Bradley, B. A. (2019). Ground motion simulations of Hope fault earthquakes. *Bulletin of the New Zealand Society for Earthquake Engineering*, 52(4), 152-171. [[PDF]](https://lee-robin.github.io/files/Journal/Thomson_2020_HopeFaultSimulation_BNZSEE.pdf)[[Link]](https://doi.org/10.5459/bnzsee.52.4.152-171)
 
 2. Bellagamba, X., **Lee, R.**, & Bradley, B. A. (2019). A neural network for automated quality screening of ground motion records from small magnitude earthquakes. *Earthquake Spectra*, 35(4), 1637-1661. [[PDF]](https://lee-robin.github.io/files/Journal/Bellagamba_2019_GroundMotionClassificationNeuralNetwork_ES.pdf) [[Link]](https://doi.org/10.1193/122118EQS292M)
 
-#### 2018
+### 2018
 
 
-#### 2017
+### 2017
 
 1. **Lee, R. L.**, Bradley, B. A., Ghisetti, F. C., & Thomson, E. M. (2017). Development of a 3D Velocity Model of the Canterbury, New Zealand, Region for Broadband Ground‐Motion Simulation. *Bulletin of the Seismological Society of America*, 107(5), 2131-2150. [[PDF]](https://lee-robin.github.io/files/Journal/Lee_2017_CantVM_BSSA.pdf) [[Link]](https://doi.org/10.1785/0120160326)
 
@@ -39,6 +37,6 @@ Add journal url/doi pages to these as well in future.
 4. Stringer M, Bastin S, McGann CR, Cappellaro C, Kortbawi ME, McMahon R, Wotherspoon LM, Green RA, Aricheta J, Davis R, McGlynn L, Hargraves S, van Ballegooy S, Cubrinovski M, Bradley BA, Dick G, Bellagamba X, Foster K, Lai C, Ashfield D, Baki A, Zekkos A, **Lee R**, Ntritsos N. Geotechnical aspects of the 2016 Kaikoura Earthquake on the South Island of New Zealand.  *Bulletin of the New Zealand Society for Earthquake Engineering*. 2017, Vol 50. No. 2, pp. 117-141. [[PDF]](https://lee-robin.github.io/files/Journal/Stringer_2017_GeotechnicalAspectsKaikoura_BNZSEE.pdf) [[Link]](https://doi.org/10.5459/bnzsee.50.2.117-141)
 
 
-### Other Publications
+## Other Publications
 
 1. Publication 1
