@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+title: "Opportunities"
+permalink: /opportunities/
 author_profile: true
 ---
 ### Research Opportunities
