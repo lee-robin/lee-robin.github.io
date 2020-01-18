@@ -9,6 +9,14 @@ redirect_from:
 
 #### Education
 
+Test:
+
+Test: **tesat**
+
+: aweas **asd**
+
+: aweas *asd*
+
 2009--2012: B.Eng. in Civil Engineering with 1st Class Honours, University of Canterbury  
 2013--2017: Ph.D in Earthquake Engineering, University of Canterbury  
 
