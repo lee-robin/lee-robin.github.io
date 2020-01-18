@@ -5,17 +5,12 @@ permalink: /people/
 author_profile: true
 ---
 
-### 2020
+## Postgraduate Students:
 
-Department of Civil and Natural Resources Engineering, University of Canterbury
+Name (contact)
+Topic:
+Supervisory panel: Brendon Bradley, Peter Stafford, Robin Lee.
 
-ENCN253-20S2 - Soil Mechanics
+## Past Group Members:
 
-ENCN454-20S1 - Earthquake Geotechnical Engineering
-
-### 2019
-Department of Civil and Natural Resources Engineering, University of Canterbury
-
-ENCN304-19S1 - Deterministic Mathematical Models
-
-ENCN454-19S2 - Earthquake Geotechnical Engineering
+N/A
