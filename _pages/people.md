@@ -16,9 +16,7 @@ author_profile: true
 
 #### Postgraduate Students:
 
-![](https://raw.githubusercontent.com/lee-robin/lee-robin.github.io/master/images/bio-photo.jpg){: .image-left } Your Text comes here...
-
-![](https://raw.githubusercontent.com/lee-robin/lee-robin.github.io/master/images/bio-photo.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![](https://raw.githubusercontent.com/lee-robin/lee-robin.github.io/master/images/bio-photo.jpg){:style="float: left;margin-left: 7px;margin-top: auto;"} This is some text.
 
 Name (contact)  
 Topic:  
