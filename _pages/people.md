@@ -4,6 +4,7 @@ title: "People"
 permalink: /people/
 author_profile: true
 ---
+
 ### 2020
 
 Department of Civil and Natural Resources Engineering, University of Canterbury
