@@ -13,13 +13,13 @@ author_profile: true
 
 2. Thomson, E. M., Bradley, B. A., **Lee, R. L.**, Wotherspoon, L. M., Wood, C. M., & Cox, B. R. (2020). Generalised parametric functions and spatial correlations for seismic velocities in the Canterbury, New Zealand region from surface-wave-based site characterisation. *Soil Dynamics and Earthquake Engineering*, 128, 105834. [[PDF]](https://lee-robin.github.io/files/Journal/Thomson_2020_ParametricFunctionsVelocity_SDEE.pdf) [[Link]](https://doi.org/10.1016/j.soildyn.2019.105834)
 
-3. **Lee RL**, Bradley BA, Stafford PJ, Graves RW, Rodriguez-Marek A, Hybrid broadband ground motion simulation validation of small magnitude earthquakes in Canterbury, New Zealand. *Earthquake Spectra* (in press) [[PDF]](https://lee-robin.github.io/files/Journal/Lee_2020_CanterburySmallMagnitudeSimulationValidation_ES.pdf)[[Link]](https://doi.org/10.1177/8755293019891718)
+3. **Lee RL**, Bradley BA, Stafford PJ, Graves RW, Rodriguez-Marek A, Hybrid broadband ground motion simulation validation of small magnitude earthquakes in Canterbury, New Zealand. *Earthquake Spectra* (in press) [[PDF]](https://lee-robin.github.io/files/Journal/Lee_2020_CanterburySmallMagnitudeSimulationValidation_ES.pdf) [[Link]](https://doi.org/10.1177/8755293019891718)
 
-4. de la Torre C, Bradley BA, **Lee RL**. Modelling nonlinear site effects in physics-based ground motion simulations of the 2010-2011 Canterbury earthquake sequence. *Earthquake Spectra*. (in press) [[PDF]](https://lee-robin.github.io/files/Journal/)[[Link]](https://doi.org/10.1080/00288306.2019.1636830)
+4. de la Torre C, Bradley BA, **Lee RL**. Modelling nonlinear site effects in physics-based ground motion simulations of the 2010-2011 Canterbury earthquake sequence. *Earthquake Spectra*. (in press) [[PDF]](https://lee-robin.github.io/files/Journal/) [[Link]](https://doi.org/10.1080/00288306.2019.1636830)
 
 ### 2019
 
-1. Thomson, E. M., **Lee, R. L.**, & Bradley, B. A. (2019). Ground motion simulations of Hope fault earthquakes. *Bulletin of the New Zealand Society for Earthquake Engineering*, 52(4), 152-171. [[PDF]](https://lee-robin.github.io/files/Journal/Thomson_2020_HopeFaultSimulation_BNZSEE.pdf)[[Link]](https://doi.org/10.5459/bnzsee.52.4.152-171)
+1. Thomson, E. M., **Lee, R. L.**, & Bradley, B. A. (2019). Ground motion simulations of Hope fault earthquakes. *Bulletin of the New Zealand Society for Earthquake Engineering*, 52(4), 152-171. [[PDF]](https://lee-robin.github.io/files/Journal/Thomson_2020_HopeFaultSimulation_BNZSEE.pdf) [[Link]](https://doi.org/10.5459/bnzsee.52.4.152-171)
 
 2. Bellagamba, X., **Lee, R.**, & Bradley, B. A. (2019). A neural network for automated quality screening of ground motion records from small magnitude earthquakes. *Earthquake Spectra*, 35(4), 1637-1661. [[PDF]](https://lee-robin.github.io/files/Journal/Bellagamba_2019_GroundMotionClassificationNeuralNetwork_ES.pdf) [[Link]](https://doi.org/10.1193/122118EQS292M)
 
