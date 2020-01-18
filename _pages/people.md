@@ -5,12 +5,12 @@ permalink: /people/
 author_profile: true
 ---
 
-## Postgraduate Students:
+#### Postgraduate Students:
 
 Name (contact)
 Topic:
 Supervisory panel: Brendon Bradley, Peter Stafford, Robin Lee.
 
-## Past Group Members:
+#### Past Group Members:
 
 N/A

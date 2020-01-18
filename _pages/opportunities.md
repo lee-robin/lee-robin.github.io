@@ -4,6 +4,7 @@ title: "Opportunities"
 permalink: /opportunities/
 author_profile: true
 ---
+
 ### Research Opportunities
 
 #### PhD

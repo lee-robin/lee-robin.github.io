@@ -7,25 +7,20 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-Education
-======
+#### Education
 
 2009--2012: B.Eng. in Civil Engineering with 1st Class Honours, University of Canterbury
-2013--2017 Ph.D in Earthquake Engineering, University of Canterbury
+2013--2017: Ph.D in Earthquake Engineering, University of Canterbury
 
-Acadmic Career
-======
+#### Acadmic Career
 
-2013--Present: Lecturer in Geotechnical Engineering
+2013--Present: **Lecturer in Geotechnical Engineering**
   * Department of Civil and Natural Resources Engineering, University of Canterbury, Christchurch, New Zealand
 
-2017--2019: Postdoctoral Research Fellow in Earthquake Engineering
+2017--2019: **Postdoctoral Research Fellow in Earthquake Engineering**
   * Department of Civil and Natural Resources Engineering, University of Canterbury, Christchurch, New Zealand
   
-Honours and Awards
-======
+#### Honours and Awards
 
 2017: Rutherford Postdoctoral Fellowship
 2016: QuakeCoRE Student Lightning Talk Audience Choice Award and Judge's Honourable Mention

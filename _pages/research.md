@@ -7,12 +7,12 @@ author_profile: true
 
 Research spans several subdisciplines of earthquake engineering with a focus on ground motion prediction through physics-based methods.
 
-## Research Projects
+### Research Projects
 
-### Crustal Velocity and Structural Geology Modelling
+#### Crustal Velocity and Structural Geology Modelling
 
-### Characteristics and Quality of Ground Motion Records
+#### Characteristics and Quality of Ground Motion Records
 
-### Ground Motion Simulation Validation
+#### Ground Motion Simulation Validation
 
-### Physics-based Seismic Hazard Analysis
+#### Physics-based Seismic Hazard Analysis
