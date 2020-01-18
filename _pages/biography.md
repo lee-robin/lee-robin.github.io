@@ -15,10 +15,10 @@ redirect_from:
 #### Acadmic Career
 
 2013-Present: Lecturer in Geotechnical Engineering
-*Department of Civil and Natural Resources Engineering, University of Canterbury, Christchurch, New Zealand*
+:    *Department of Civil and Natural Resources Engineering, University of Canterbury, Christchurch, New Zealand*
 
 2017-2019: Postdoctoral Research Fellow in Earthquake Engineering
-*Department of Civil and Natural Resources Engineering, University of Canterbury, Christchurch, New Zealand*
+:    *Department of Civil and Natural Resources Engineering, University of Canterbury, Christchurch, New Zealand*
   
 #### Honours and Awards
 
