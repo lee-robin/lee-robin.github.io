@@ -11,49 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Civil Engineering with 1st Class Honours, University of Canterbury, 2013
+* Ph.D in Earthquake Engineering, University of Canterbury, 2017
 
-Work experience
+Acadmic Career
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+| Entry            | Item   |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| [John Doe](#)    | 2016   | Description of the item in the list                          |
+| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Lecturer in Geotechnical Engineering
+  * Department of Civil and Natural Resources Engineering, University of Canterbury, Christchurch, New Zealand
+
+* Postdoctoral Research Fellow in Earthquake Engineering
+  * Department of Civil and Natural Resources Engineering, University of Canterbury, Christchurch, New Zealand
   
-Talks
+Honours and Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Award 1
+* Award 2
+* Award 3
