@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications_Other"
+title: "Publications"
 permalink: /publications_other/
 author_profile: true
 ---
@@ -9,10 +9,9 @@ author_profile: true
 
 #### 2020
 
+#### 2019
 
 #### 2018
 
-
 #### 2017
-
 

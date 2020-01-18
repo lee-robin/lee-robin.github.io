@@ -39,4 +39,4 @@ author_profile: true
 
 ### Other Publications
 
-For other publications, click on this [[Link]](https://lee-robin.github.io/_pages/publications_other.md)
+For other publications, click on this [[Link]](https://lee-robin.github.io/publications_other/)

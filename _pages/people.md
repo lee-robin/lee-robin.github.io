@@ -5,18 +5,9 @@ permalink: /people/
 author_profile: true
 ---
 
-<style type="text/css">
-.image-left {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: right;
-}
-</style>
-
 #### Postgraduate Students:
 
-[![bio](images/bio-photo.jpg)]{: .image-left } Your Text comes here...
+![alt text](https://github.com/lee-robin/lee-robin.github.io/blob/master/images/bio-photo.jpg)
 
 Name (contact)  
 Topic:  
