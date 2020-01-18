@@ -7,7 +7,7 @@ author_profile: true
 
 #### Postgraduate Students:
 
-![alt text](https://github.com/lee-robin/lee-robin.github.io/blob/master/images/bio-photo.jpg)
+![](https://github.com/lee-robin/lee-robin.github.io/blob/master/images/bio-photo.jpg)
 
 Name (contact)  
 Topic:  
