@@ -12,9 +12,9 @@ Welcome to Dr. Robin Lee's home on the web!
 
 Robin is a member of the Geotechnical Engineering Research Group in the Department of Civil and Natural Resources Engineering at the University of Canterbury. His research focusses on:
 
-1. Crustal velocity modelling.
-2. Observed ground motion records.
-3. Physics-based ground motion simulations.
+1. Engineering seismology.
+2. Ground motion prediction and seismic hazard.
+3. Earthquake geotechnical engineering.
 4. High performance computing and machine learning applications.
 
 Please explore this site to learn more!
