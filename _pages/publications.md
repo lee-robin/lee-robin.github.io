@@ -10,10 +10,12 @@ author_profile: true
 #### 2022
 
 1. **Lee RL**, Bradley BA, Stafford PJ, Graves RW, Rodriguez-Marek A, Hybrid broadband ground motion simulation validation of small magnitude earthquakes in Canterbury, New Zealand. *Earthquake Spectra*, 38(4), 2548–2579. [[PDF]](https://lee-robin.github.io/files/Journal/Lee_2022_NZSmallMagnitudeSimulationValidation_ES.pdf) [[Link]](https://doi.org/10.1177/87552930221109297)
+2. **Lee RL**, Bradley BA, Stafford PJ, Graves RW, Rodriguez-Marek A, Hybrid broadband ground motion simulation validation of small magnitude earthquakes in Canterbury, New Zealand. *Earthquake Spectra*, 38(4), 2548–2579. [[PDF]](https://lee-robin.github.io/files/Journal/Lee_2022_NZSmallMagnitudeSimulationValidation_ES.pdf) [[Link]](https://doi.org/10.1177/87552930221109297)
 
 #### 2021
 
 1. McGann, C. R., Bradley, B. A., Wotherspoon, L. M., & **Lee, R. L.** (2021). Basin effects and limitations of 1D site response analysis from 2D numerical models of the Thorndon Basin. *Bulletin of the New Zealand Society for Earthquake Engineering*, 54(1), 110-127. [[PDF]](https://lee-robin.github.io/files/Journal/McGann_2021_WellingtonBasin2DSiteResponse_BNZSEE.pdf) [[Link]](https://doi.org/10.5459/bnzsee.54.1.21-30)
+2. McGann, C. R., Bradley, B. A., Wotherspoon, L. M., & **Lee, R. L.** (2021). Basin effects and limitations of 1D site response analysis from 2D numerical models of the Thorndon Basin. *Bulletin of the New Zealand Society for Earthquake Engineering*, 54(1), 110-127. [[PDF]](https://lee-robin.github.io/files/Journal/McGann_2021_WellingtonBasin2DSiteResponse_BNZSEE.pdf) [[Link]](https://doi.org/10.5459/bnzsee.54.1.21-30)
 
 #### 2020
 
