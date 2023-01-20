@@ -47,4 +47,5 @@ author_profile: true
 
 ### Other Publications
 
-For other publications, click on this [[Link]](https://lee-robin.github.io/publications_other/)
+For conference papers, click on this [[Link]](https://github.com/lee-robin/lee-robin.github.io/tree/master/files/ConferencePapers)
+For conference posters, click on this [[Link]](https://github.com/lee-robin/lee-robin.github.io/tree/master/files/ConferencePosters)

@@ -5,6 +5,16 @@ permalink: /opportunities/
 author_profile: true
 ---
 
+### Current Postgraduate Opportunities
+
+Specific projects that Dr Lee is actively seeking PhD candidates to undertake:
+
+1. Creating a physics-based understanding of the spatial correlation of earthquake-induced ground motions in regions of complex geology.
+2. High-frequency physics-based ground motion simulations through computational and scientific improvements.
+3. Improvement of seismic velocity models for physics-based ground motion simulations.
+
+Please email me at [[robin.lee@canterbury.ac.nz]](robin.lee@canterbury.ac.nz) to express interest in these projects.
+
 ### General Postgraduate Opportunities
 
 Dr Lee is actively seeking highly motivated students (domestic and international) with strong academic backgrounds to work on research projects related to engineering seismology, seismic hazard and geotechnical engineering. If you are interested and consider yourself eligible, please contact Dr Lee via email (robin.lee@canterbury.ac.nz) with **ALL** of the following details:
