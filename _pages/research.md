@@ -13,7 +13,7 @@ Research spans several subdisciplines of earthquake engineering with a focus on 
 
 The properties and structure of the Earth's subsurface plays a large role in the earthquake ground motions that are observed. The characterisation of the seismic velocities and density of the soil and rock at both the shallow and crustal scale is necessary to understand and model the seismic wave propagation of earthquake-induced waves. This research is ongoing to continually improve our velocity models through more accurate velocity prescriptions, embedded sedimentary basin structures, and inclusion of stochastic randomness through small-scale heterogeneities. The New Zealand Velocity Model (NZVM) can be found here [[Link]](https://github.com/ucgmsim/Velocity-Model):
 
-![CantVM](https://github.com/lee-robin/lee-robin.github.io/blob/master/images/foo-bar-identity.jpg)
+![CantVM](https://raw.githubusercontent.com/lee-robin/lee-robin.github.io/master/images/foo-bar-identity.jpg)
 
 #### Characteristics and Quality of Ground Motion Records
 

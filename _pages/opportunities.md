@@ -13,7 +13,7 @@ Specific projects that Dr Lee is actively seeking PhD candidates to undertake:
 2. High-frequency physics-based ground motion simulations through computational and scientific improvements.
 3. Improvement of seismic velocity models for physics-based ground motion simulations.
 
-Please email me at [[robin.lee@canterbury.ac.nz]](robin.lee@canterbury.ac.nz) to express interest in these projects.
+Email <robin.lee@canterbury.ac.nz> to express interest in these projects. Please provide relevant details to demonstrate suitability.
 
 ### General Postgraduate Opportunities
 
