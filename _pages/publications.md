@@ -14,8 +14,7 @@ author_profile: true
 
 #### 2021
 
-1. McGann, C. R., Bradley, B. A., Wotherspoon, L. M., & **Lee, R. L.** (2021). Basin effects and limitations of 1D site response analysis from 2D numerical models of the Thorndon Basin. *Bulletin of the New Zealand Society for Earthquake Engineering*, 54(1), 110-127. [[PDF]](https://lee-robin.github.io/files/Journal/McGann_2021_WellingtonBasin2DSiteResponse_BNZSEE.pdf) [[Link]](https://doi.org/10.5459/bnzsee.54.1.21-30)
-2. McGann, C. R., Bradley, B. A., Wotherspoon, L. M., & **Lee, R. L.** (2021). Basin effects and limitations of 1D site response analysis from 2D numerical models of the Thorndon Basin. *Bulletin of the New Zealand Society for Earthquake Engineering*, 54(1), 110-127. [[PDF]](https://lee-robin.github.io/files/Journal/McGann_2021_WellingtonBasin2DSiteResponse_BNZSEE.pdf) [[Link]](https://doi.org/10.5459/bnzsee.54.1.21-30)
+1. McGann, C. R., Bradley, B. A., Wotherspoon, L. M., & **Lee, R. L.** (2021). Basin effects and limitations of 1D site response analysis from 2D numerical models of the Thorndon Basin. *Bulletin of the New Zealand Society for Earthquake Engineering*, 54(1), 21-30. [[PDF]](https://lee-robin.github.io/files/Journal/McGann_2021_WellingtonBasin2DSiteResponse_BNZSEE.pdf) [[Link]](https://doi.org/10.5459/bnzsee.54.1.21-30)
 
 #### 2020
 
