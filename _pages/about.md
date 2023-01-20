@@ -21,5 +21,5 @@ Please explore this site to learn more!
 
 ## Recent News
 
-19/01/2020: Updates to all parts of the website, including specific PhD research opportunities [[Here!]](https://lee-robin.github.io/opportunities/)
+20/01/2023: Updates to all parts of the website, including specific PhD research opportunities [[Here!]](https://lee-robin.github.io/opportunities/)  
 19/01/2020: Website is live! Welcome.
