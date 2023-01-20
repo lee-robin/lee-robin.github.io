@@ -10,11 +10,14 @@ author_profile: true
 #### 2022
 
 1. **Lee RL**, Bradley BA, Stafford PJ, Graves RW, Rodriguez-Marek A, Hybrid broadband ground motion simulation validation of small magnitude earthquakes in Canterbury, New Zealand. *Earthquake Spectra*, 38(4), 2548–2579. [[PDF]](https://lee-robin.github.io/files/Journal/Lee_2022_NZSmallMagnitudeSimulationValidation_ES.pdf) [[Link]](https://doi.org/10.1177/87552930221109297)
-2. **Lee RL**, Bradley BA, Stafford PJ, Graves RW, Rodriguez-Marek A, Hybrid broadband ground motion simulation validation of small magnitude earthquakes in Canterbury, New Zealand. *Earthquake Spectra*, 38(4), 2548–2579. [[PDF]](https://lee-robin.github.io/files/Journal/Lee_2022_NZSmallMagnitudeSimulationValidation_ES.pdf) [[Link]](https://doi.org/10.1177/87552930221109297)
 
 #### 2021
 
-1. McGann, C. R., Bradley, B. A., Wotherspoon, L. M., & **Lee, R. L.** (2021). Basin effects and limitations of 1D site response analysis from 2D numerical models of the Thorndon Basin. *Bulletin of the New Zealand Society for Earthquake Engineering*, 54(1), 21-30. [[PDF]](https://lee-robin.github.io/files/Journal/McGann_2021_WellingtonBasin2DSiteResponse_BNZSEE.pdf) [[Link]](https://doi.org/10.5459/bnzsee.54.1.21-30)
+1. Thomson, E. M., Bradley, B. A., & **Lee, R. L.** (2020). Methodology and computational implementation of a New Zealand Velocity Model (NZVM2. 0) for broadband ground motion simulation. *New Zealand Journal of Geology and Geophysics*, 63(1), 110-127. [[PDF]](https://lee-robin.github.io/files/Journal/Thomson_2020_NZVM2_NZJGG.pdf) [[Link]](https://doi.org/10.1080/00288306.2019.1636830)
+
+2. Thomson, E. M., Bradley, B. A., **Lee, R. L.**, Wotherspoon, L. M., Wood, C. M., & Cox, B. R. (2020). Generalised parametric functions and spatial correlations for seismic velocities in the Canterbury, New Zealand region from surface-wave-based site characterisation. *Soil Dynamics and Earthquake Engineering*, 128, 105834. [[PDF]](https://lee-robin.github.io/files/Journal/Thomson_2020_ParametricFunctionsVelocity_SDEE.pdf) [[Link]](https://doi.org/10.1016/j.soildyn.2019.105834)
+
+3. McGann, C. R., Bradley, B. A., Wotherspoon, L. M., & **Lee, R. L.** (2021). Basin effects and limitations of 1D site response analysis from 2D numerical models of the Thorndon Basin. *Bulletin of the New Zealand Society for Earthquake Engineering*, 54(1), 21-30. [[PDF]](https://lee-robin.github.io/files/Journal/McGann_2021_WellingtonBasin2DSiteResponse_BNZSEE.pdf) [[Link]](https://doi.org/10.5459/bnzsee.54.1.21-30)
 
 #### 2020
 
