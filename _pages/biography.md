@@ -12,7 +12,7 @@ redirect_from:
 2009--2012: B.Eng. in Civil Engineering with 1st Class Honours, University of Canterbury  
 2013--2017: Ph.D in Earthquake Engineering, University of Canterbury  
 
-#### Acadmic Employment
+#### Academic Employment
 
 2019--Present: Lecturer in Geotechnical Engineering
 :    *Department of Civil and Natural Resources Engineering, University of Canterbury, Christchurch, New Zealand*
@@ -21,8 +21,7 @@ redirect_from:
 :    *Department of Civil and Natural Resources Engineering, University of Canterbury, Christchurch, New Zealand*
 
 #### Teaching
-Department of Civil and Natural Resources Engineering, University of Canterbury
-
+*Department of Civil and Natural Resources Engineering, University of Canterbury*
 ENCN253 - Soil Mechanics  
 ENCN304 - Deterministic Mathematical Methods (2019 only)  
 ENCI413 - Integrated Civil Engineering Design  
