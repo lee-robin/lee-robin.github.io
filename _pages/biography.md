@@ -19,7 +19,15 @@ redirect_from:
 
 2017--2019: Postdoctoral Research Fellow in Earthquake Engineering
 :    *Department of Civil and Natural Resources Engineering, University of Canterbury, Christchurch, New Zealand*
-  
+
+#### Teaching
+Department of Civil and Natural Resources Engineering, University of Canterbury
+
+ENCN253 - Soil Mechanics  
+ENCN304 - Deterministic Mathematical Methods (2019 only)  
+ENCI413 - Integrated Civil Engineering Design  
+ENCN454 - Introduction to Geotechnical Earthquake Engineering  
+
 #### Honours and Awards
 
 2021: Marsden Fund Fast-Start Grant [[Link]](https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2021/)  

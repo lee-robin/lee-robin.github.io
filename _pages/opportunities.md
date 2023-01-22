@@ -4,6 +4,9 @@ title: "Opportunities"
 permalink: /opportunities/
 author_profile: true
 ---
+<style>
+    li {font-size: 0.8em;}
+</style>
 
 ### Current Postgraduate Opportunities
 
