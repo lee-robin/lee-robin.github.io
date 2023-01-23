@@ -21,7 +21,7 @@ redirect_from:
 :    *Department of Civil and Natural Resources Engineering, University of Canterbury, Christchurch, New Zealand*
 
 #### Teaching
-*Department of Civil and Natural Resources Engineering, University of Canterbury*
+*Department of Civil and Natural Resources Engineering, University of Canterbury*  
 ENCN253 - Soil Mechanics  
 ENCN304 - Deterministic Mathematical Methods (2019 only)  
 ENCI413 - Integrated Civil Engineering Design  
