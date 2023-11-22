@@ -21,5 +21,6 @@ Please explore this site to learn more!
 
 ## Recent News
 
+10/11/2023: Robin recently presented an overview of the ground-motion characterisation modelling for the 2022 NZ National Seismic Hazard Model as a part of the QuakeCoRE Monthly Seminar Series. Youtube recording can be found [[Here!]](https://www.youtube.com/watch?v=ZcCRHgJkeSo)  
 20/01/2023: Updates to all parts of the website, including specific PhD research opportunities [[Here!]](https://lee-robin.github.io/opportunities/)  
 19/01/2020: Website is live! Welcome.

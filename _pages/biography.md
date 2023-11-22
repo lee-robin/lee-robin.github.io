@@ -11,8 +11,8 @@ redirect_from:
 
 2009--2012: B.Eng. in Civil Engineering with 1st Class Honours, University of Canterbury  
 2013--2017: Ph.D in Earthquake Engineering, University of Canterbury  
-:    Thesis: Development of a 3D Canterbury seismic velocity model and investigation of systematic effects through hybrid broadband ground motion simulation (2017) [[Link]](http://dx.doi.org/10.26021/2346)
-:    Supervisors: Prof. Brendon Bradley, Prof. Misko Cubrinovski, Prof. Jarg Pettinga
+:    *Thesis: Development of a 3D Canterbury seismic velocity model and investigation of systematic effects through hybrid broadband ground motion simulation* [[Link]](http://dx.doi.org/10.26021/2346)
+:    *Supervisors: Prof. Brendon Bradley, Prof. Misko Cubrinovski, Prof. Jarg Pettinga*
 
 #### Academic Employment
 
