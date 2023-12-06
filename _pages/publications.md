@@ -10,9 +10,13 @@ author_profile: true
 
 ### Journal Publications
 
+#### 2023
+
+1. **Lee RL**, Bradley BA, Manea EF, Hutchinson JA, Bora SS (2023). Evaluation of Empirical Ground‐Motion Models for the 2022 New Zealand National Seismic Hazard Model Revision. *Bulletin of the Seismological Society of America*, XX(X), pagenumbers. [[PDF]](https://lee-robin.github.io/files/Journal/Lee_2023_EvaluationOfEmpiricalGMM_BSSA.pdf) [[Link]](https://doi.org/10.1785/0120230180)
+
 #### 2022
 
-1. **Lee RL**, Bradley BA, Stafford PJ, Graves RW, Rodriguez-Marek A, Hybrid broadband ground motion simulation validation of small magnitude earthquakes in Canterbury, New Zealand. *Earthquake Spectra*, 38(4), 2548–2579. [[PDF]](https://lee-robin.github.io/files/Journal/Lee_2022_NZSmallMagnitudeSimulationValidation_ES.pdf) [[Link]](https://doi.org/10.1177/87552930221109297)
+1. **Lee RL**, Bradley BA, Stafford PJ, Graves RW, Rodriguez-Marek A (2022). Hybrid broadband ground motion simulation validation of small magnitude earthquakes in Canterbury, New Zealand. *Earthquake Spectra*, 38(4), 2548–2579. [[PDF]](https://lee-robin.github.io/files/Journal/Lee_2022_NZSmallMagnitudeSimulationValidation_ES.pdf) [[Link]](https://doi.org/10.1177/87552930221109297)
 
 #### 2021
 
