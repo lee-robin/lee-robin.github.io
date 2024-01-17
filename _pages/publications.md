@@ -10,9 +10,25 @@ author_profile: true
 
 ### Journal Publications
 
+#### 2024
+
+1. Hutchinson JA, Zhu C, Bradley BA, **Lee RL**, Wotherspoon LM, Dupuis M, Schill C, Motha J, Manea EF, Kaiser AE. 2023 NZ ground motion database. *Bulletin of the Seismological Society of America*, XX(X), pagenumbers.  [[PDF]](https://lee-robin.github.io/files/Journal/Hutchinson_2024_GMDB_BSSA.pdf) [[Link]]( https://doi.org/10.1785/0120230184)
+
 #### 2023
 
-1. **Lee RL**, Bradley BA, Manea EF, Hutchinson JA, Bora SS (2023). Evaluation of Empirical Ground‐Motion Models for the 2022 New Zealand National Seismic Hazard Model Revision. *Bulletin of the Seismological Society of America*, XX(X), pagenumbers. [[PDF]](https://lee-robin.github.io/files/Journal/Lee_2023_EvaluationOfEmpiricalGMM_BSSA.pdf) [[Link]](https://doi.org/10.1785/0120230180)
+7. Bradley BA, Bora SS, **Lee RL**, Manea EF, Gerstenberger MC, Stafford PJ, Atkinson GM, Weatherill G, Hutchinson J, de la Torre CA, Hulsey AM, Kaiser AE. (2023). The ground-motion characterisation model for the 2022 New Zealand national seismic hazard model. *Bulletin of the Seismological Society of America*, XX(X), pagenumbers. [[PDF]](https://lee-robin.github.io/files/Journal/Bradley_2023_GMCM_BSSA.pdf) [[Link]](https://doi.org/10.1785/0120230170)
+
+6. Kaiser AE, Hill MP, de la Torre CA, Bora SS, Manea E, Wotherspoon LM, Atkinson GM, **Lee RL**, Bradley BA, Hulsey A, Stolte A, Gerstenberger MC. (2023). Overview of site/basin effects and the application of the 2022 New Zealand NSHM in Wellington, New Zealand. *Bulletin of the Seismological Society of America*, XX(X), pagenumbers. [[PDF]](https://lee-robin.github.io/files/Journal/Kaiser_2023_WellingtonSiteEffects_BSSA.pdf) [[Link]](https://doi.org/10.1785/0120230189)
+
+5. Gerstenberger MC, Bora SS, Bradley BA, DiCaprio C, Kaiser A, Manea EF, Nicol A, Stirling MW, Thingbaijam KKS, Van Dissen RJ, Atkinson GM, Chamberlin C, Christophersen A, Clark KJ, Coffey GL, de la Torre CA, Ellis SM, Fraser J, Graham K, Griffin J, Hamling IJ, Hill MP, Howell A, Hulsey A, Hutchinson J, Iturrieta P, Johnson KM, Jurgens VO, Kirkman R, Langridge RM, **Lee RL**, Litchfield NJ, Maurer J, Milner KR, Rastin SJ, Rattenbury MS, Rhoades DA, Ristau J, Seebeck H, Shaw B, Townend J, Schorlemmer D, Stafford PJ, Villamor P, Wallace LM, Weatherill G, Williams C, Wotherspoon LM. (2023). The 2022 Aotearoa New Zealand National Seismic Hazard Model: Process, overview and results. *Bulletin of the Seismological Society of America*, XX(X), pagenumbers. [[PDF]](https://lee-robin.github.io/files/Journal/Gerstenberger_2023_NSHM_BSSA.pdf) [[Link]](https://doi.org/10.1785/0120230182)
+
+4. Bora SS, Bradley BA, Manea EF, Gerstenberger MC, **Lee RL**, Stafford PJ, Atkinson GM, Kaiser AE, DiCaprio CJ, Van Dissen RJ.(2023). Hazard sensitivities associated with ground-motion characterization modelling for the New Zealand national seismic hazard model revisions 2022. *Bulletin of the Seismological Society of America*, XX(X), pagenumbers. [[PDF]](https://lee-robin.github.io/files/Journal/Bora_2023_HazardSensitivitiesNSHM_BSSA.pdf) [[Link]](https://doi.org/10.1785/0120230167)
+
+3. **Lee RL**, Bradley BA, Manea EF, Hutchinson JA, Bora SS (2023). Evaluation of Empirical Ground‐Motion Models for the 2022 New Zealand National Seismic Hazard Model Revision. *Bulletin of the Seismological Society of America*, XX(X), pagenumbers. [[PDF]](https://lee-robin.github.io/files/Journal/Lee_2023_EvaluationOfEmpiricalGMM_BSSA.pdf) [[Link]](https://doi.org/10.1785/0120230180)
+
+2. de la Torre CA, Bradley BA, Kuncar F, **Lee RL**, Wotherspoon LM, Kaiser AE. (2023). Combining observed linear basin amplification factors with 1D nonlinear site-response analyses to predict site response for strong motions: Application to Wellington, New Zealand. *Earthquake Spectra*, XX(X), pagenumbers. [[PDF]](https://lee-robin.github.io/files/Journal/delaTorre_2023_CombiningObservedLinearWith1dNonlinearSiteResponseAnalyses_ES.pdf) [[Link]](https://doi.org/10.1177/875529302312097)
+
+1. Dupuis MR, Schill C, **Lee RL**, Bradley BA. (2023). A Deep-Learning-Based Model for Quality Assessment of Earthquake-Induced Ground-Motion Records. *Earthquake Spectra*, 39(4), 2492-2517. [[PDF]](https://lee-robin.github.io/files/Journal/Dupuis_2023_DeepLearningGroundMotionQuality_ES.pdf) [[Link]](https://doi.org/10.1177/875529302311951)
 
 #### 2022
 
