@@ -12,7 +12,7 @@ author_profile: true
 
 #### 2024
 
-1. Hutchinson JA, Zhu C, Bradley BA, **Lee RL**, Wotherspoon LM, Dupuis M, Schill C, Motha J, Manea EF, Kaiser AE. 2023 NZ ground motion database. *Bulletin of the Seismological Society of America*, XX(X), pagenumbers.  [[PDF]](https://lee-robin.github.io/files/Journal/Hutchinson_2024_GMDB_BSSA.pdf) [[Link]]( https://doi.org/10.1785/0120230184)
+1. Hutchinson JA, Zhu C, Bradley BA, **Lee RL**, Wotherspoon LM, Dupuis M, Schill C, Motha J, Manea EF, Kaiser AE. (2024). 2023 NZ ground motion database. *Bulletin of the Seismological Society of America*, XX(X), pagenumbers.  [[PDF]](https://lee-robin.github.io/files/Journal/Hutchinson_2024_GMDB_BSSA.pdf) [[Link]]( https://doi.org/10.1785/0120230184)
 
 #### 2023
 
