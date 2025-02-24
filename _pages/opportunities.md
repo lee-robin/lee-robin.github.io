@@ -12,9 +12,7 @@ author_profile: true
 
 Specific projects that Dr Lee is actively seeking PhD candidates to undertake:
 
-1. Creating a physics-based understanding of the spatial correlation of earthquake-induced ground motions in regions of complex geology.
-2. High-frequency physics-based ground motion simulations through computational and scientific improvements.
-3. Improvement of seismic velocity models for physics-based ground motion simulations.
+1. Evaluating Seismic Hazard Analysis and Code Design Provisions for Vertical Ground Motions.
 
 Email <robin.lee@canterbury.ac.nz> to express interest in these projects. Please provide relevant details to demonstrate suitability.
 

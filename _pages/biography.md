@@ -31,6 +31,7 @@ ENCN454 - Introduction to Geotechnical Earthquake Engineering
 
 #### Honours and Awards
 
+2024: Faculty of Engineering Emerging Teaching Award [[Link]](https://www.linkedin.com/posts/uc-engineering_engineeringexcellence-awards2024-congratulations-activity-7257545579247919104-B4JE/?utm_source=share&utm_medium=member_desktop/)  
 2021: Marsden Fund Fast-Start Grant [[Link]](https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2021/)  
 2017: Rutherford Postdoctoral Fellowship [[Link]](https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/rutherford-foundation/rutherford-foundation-recipients/robin-lee/)  
 2016: QuakeCoRE Student Lightning Talk Audience Choice Award and Judge's Honourable Mention [[Link]](http://www.quakecore.nz/annualmeeting/past/)  
